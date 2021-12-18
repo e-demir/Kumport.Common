@@ -1,0 +1,10 @@
+C:\Users\emrullah.demir\source\repos\Kumport.Common\bin\Debug\netcoreapp3.1\Kumport.Common.deps.json
+C:\Users\emrullah.demir\source\repos\Kumport.Common\bin\Debug\netcoreapp3.1\Kumport.Common.dll
+C:\Users\emrullah.demir\source\repos\Kumport.Common\bin\Debug\netcoreapp3.1\Kumport.Common.pdb
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.AssemblyInfoInputs.cache
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.AssemblyInfo.cs
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.csproj.CoreCompileInputs.cache
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.dll
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.pdb
+C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.csproj.AssemblyReference.cache
