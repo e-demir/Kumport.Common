@@ -7,4 +7,3 @@ C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kump
 C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.csproj.CoreCompileInputs.cache
 C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.dll
 C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.pdb
-C:\Users\emrullah.demir\source\repos\Kumport.Common\obj\Debug\netcoreapp3.1\Kumport.Common.csproj.AssemblyReference.cache
